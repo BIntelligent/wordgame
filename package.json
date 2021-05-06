@@ -1,0 +1,27 @@
+{
+  "name": "wordgame",
+  "version": "1.0.0",
+  "description": "A discord word game using mongo db / quick db",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIntelligent/wordgame.git"
+  },
+  "keywords": [
+    "game",
+    "wordgame",
+    "discord",
+    "discordjs",
+    "game-system"
+  ],
+  "author": "silent-coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BIntelligent/wordgame/issues"
+  },
+  "homepage": "https://github.com/BIntelligent/wordgame#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.7"
+  }
+}
